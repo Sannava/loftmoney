@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">HelloApp</string>
+    <string name="app_name">LoftMoney</string>
     <string name="greeting">Hello World!</string>
+    <string name="edittext_name">Title</string>
+    <string name="edittext_price">Price</string>
+    <string name="add_button">Add</string>
 </resources>
